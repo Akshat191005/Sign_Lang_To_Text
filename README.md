@@ -19,6 +19,18 @@ This project implements a real-time Sign Language Recognition system that captur
    - Displays final sentence on screen
 
 ---
+## Tech Stack
+
+- Python
+- OpenCV
+- MediaPipe
+- Scikit-learn
+- NumPy
+- TextBlob
+- Computer Vision
+- Machine Learning
+  
+---
 
 ## 📁 Directory Structure
 
@@ -131,3 +143,9 @@ python inference5.py
 - Use deep learning models (e.g., CNN + LSTM) for better accuracy and temporal understanding.
 
 ---
+## Author
+
+Akshat Singhvi  
+B.E. Computer Engineering  
+Thapar Institute of Engineering and Technology
+
